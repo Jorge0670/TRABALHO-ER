@@ -1,4 +1,4 @@
-# 🎵 UFmusic
+# UFmusic
 
 **Documento de Requisitos de Software**
 
@@ -130,10 +130,10 @@ O diagrama é composto pelos atores **Ouvinte**, **Ouvinte Premium** (especializ
 ```mermaid
 flowchart LR
     %% Atores
-    OUV["🧑 Ouvinte"]
-    PRE["🧑 Ouvinte Premium"]
-    ART["🧑 Artista"]
-    ADM["🧑 Administrador"]
+    OUV["Ouvinte"]
+    PRE["Ouvinte Premium"]
+    ART["Artista"]
+    ADM["Administrador"]
 
     subgraph SIS["Sistema UFmusic"]
         direction TB
